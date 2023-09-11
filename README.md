@@ -1,1 +1,2 @@
 # calculator
+add and sub
